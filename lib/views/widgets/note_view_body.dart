@@ -3,8 +3,8 @@ import 'package:flutter/widgets.dart';
 import 'custom_appbar.dart';
 import 'notes_list_view.dart';
 
-class NotesViewBidy extends StatelessWidget {
-  const NotesViewBidy({Key? key}) : super(key: key);
+class NotesViewBody extends StatelessWidget {
+  const NotesViewBody({super.key});
 
   @override
   Widget build(BuildContext context) {
